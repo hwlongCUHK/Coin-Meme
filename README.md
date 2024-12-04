@@ -1,2 +1,4 @@
 # Coin-Meme
 The official dataset for paper "Bridging Culture and Finance: A Multimodal Analysis of Memecoins in the Web3 Ecosystem"
+
+The Coin-Meme dataset consists of four modalities: Textual Descriptions, Visual Content, Community Interactions, and Financial Data. Textual Descriptions are the narratives associated with each memecoin. Visual Content includes the logo image of memecoin. Community Interactions encompass user comments. Financial Data consists of market-related metrics, including Market Capitalization and the Market Entry Time, which quantifies the speed at which a token gains liquidity and market presence on decentralized exchanges. The dataset includes all 3,751 memecoins that were created between January 2024 and November 2024 and subsequently moved to Raydium, providing a comprehensive overview of the memecoin ecosystem.
