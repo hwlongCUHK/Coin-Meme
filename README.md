@@ -1,6 +1,6 @@
 # Coin-Meme
 
-The official dataset for the paper **"Bridging Culture and Finance: A Multimodal Analysis of Memecoins in the Web3 Ecosystem"**, to be presented at ACM The Web Conference (WWW'25).
+The official dataset for the paper **"Bridging Culture and Finance: A Multimodal Analysis of Memecoins in the Web3 Ecosystem"**, to be presented at ACM The Web Conference (WWW'25). The paper can be found [here](data/coin_meme.pdf).
 
 ---
 
