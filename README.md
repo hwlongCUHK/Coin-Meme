@@ -62,9 +62,9 @@ The Coin-Meme dataset captures **3,751 memecoins** created between January 2024 
 ## Citation
 If you use this dataset, please cite our paper:
 ```bibtex
-@article{long2024bridging,
-  title={Bridging Culture and Finance: A Multimodal Analysis of Memecoins in the Web3 Ecosystem},
-  author={Long, Hou-Wan and Wong, Nga-Man and Cai, Wei},
-  journal={arXiv preprint arXiv:2412.04913},
-  year={2024}
+@INPROCEEDINGS{HouwanLWC2025,
+  AUTHOR={Hou-Wan Long and Nga-Man Wong and Wei Cai},
+  TITLE={Bridging Culture and Finance: A Multimodal Analysis of Memecoins in the Web3 Ecosystem},
+  BOOKTITLE={The ACM Web Conference 2025 (WWW'25) Short Paper, Sydney, Australia, April 28 - May 2},
+  YEAR={2025},
 }
