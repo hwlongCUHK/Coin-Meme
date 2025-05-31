@@ -70,9 +70,10 @@ Coin-Meme 数据集包含 **3,751 种模因币**，这些模因币创建于 2024
 如果您使用此数据集，请引用我们的论文：
 
 ```bibtex
-@INPROCEEDINGS{HouwanLWC2025,
-  AUTHOR={Hou-Wan Long and Nga-Man Wong and Wei Cai},
-  TITLE={Bridging Culture and Finance: A Multimodal Analysis of Memecoins in the Web3 Ecosystem},
-  BOOKTITLE={The ACM Web Conference 2025 (WWW'25) Short Paper, Sydney, Australia, April 28 - May 2},
-  YEAR={2025},
+@inproceedings{long2025bridging,
+  title={Bridging Culture and Finance: A Multimodal Analysis of Memecoins in the Web3 Ecosystem},
+  author={Long, Hou-Wan and Wong, Nga-Man and Cai, Wei},
+  booktitle={Companion Proceedings of the ACM on Web Conference 2025},
+  pages={1158--1161},
+  year={2025}
 }
